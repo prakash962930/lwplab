@@ -11,7 +11,7 @@ public class DbUtil {
 	static String driver = "com.mysql.cj.jdbc.Driver";
 	static String url = "jdbc:mysql://lwplabs.cojh5a5pj8rf.us-east-1.rds.amazonaws.com:3306/lwplabs";
 	static String username = "master";
-	static String password = "welcome1";
+	static String password = "admin123";
 	
 	static {
 		try {
