@@ -3,7 +3,7 @@
 install MySQL version 8.0.21   (ie. 8.0.x)
 
 database username: admin
-database password: admin123
+database password: admin1234
 
 If you are using another user then needs to be changed in java file: DbUtil.java
 
